@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg830"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="twitter-logo-silhouette.svg">
+  <defs
+     id="defs824">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	</defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.245"
+     inkscape:cx="-134.69388"
+     inkscape:cy="500"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1918"
+     inkscape:window-height="526"
+     inkscape:window-x="0"
+     inkscape:window-y="1296"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata827">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.416658)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:31.50878906;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="M 500 18.367188 A 481.6326 481.6326 0 0 0 18.367188 500 A 481.6326 481.6326 0 0 0 500 981.63281 A 481.6326 481.6326 0 0 0 981.63281 500 A 481.6326 481.6326 0 0 0 500 18.367188 z M 648.30273 233.07227 C 684.44273 233.07227 717.0266 248.29346 739.93359 272.73047 C 768.53959 267.07048 795.38502 256.63095 819.70703 242.25195 C 810.30001 271.50796 790.45243 296.13513 764.52344 311.66211 C 789.91744 308.64011 814.08633 301.8716 836.61133 291.89062 C 819.82233 317.05461 798.48435 339.15893 773.81836 356.75195 L 774.23828 373.00391 C 774.23828 538.9009 647.99877 730.19141 417.05078 730.19141 C 346.14877 730.19141 280.18028 709.38804 224.61328 673.70703 C 234.44128 674.81606 244.42264 675.42773 254.55664 675.42773 C 313.37364 675.42773 367.52565 655.42745 410.47266 621.77344 C 355.55565 620.77844 309.2057 584.48708 293.2207 534.58008 C 300.9077 536.11011 308.74651 536.91211 316.85352 536.91211 C 328.32651 536.91211 339.41659 535.34367 349.93359 532.51367 C 292.5316 520.96366 249.24023 470.21618 249.24023 409.41016 L 249.24023 407.8418 C 266.18123 417.2498 285.53242 422.90967 306.10742 423.59766 C 272.45342 401.11166 250.27344 362.67812 250.27344 319.11914 C 250.27344 296.09615 256.42895 274.52755 267.25195 256.01758 C 329.16695 331.96855 421.67596 381.95139 526.00195 387.19141 C 523.85994 378.01241 522.75195 368.41392 522.75195 358.58594 C 522.75195 289.28992 578.96874 233.07227 648.30273 233.07227 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,32.416658)"
+       id="path1559" />
+  </g>
+</svg>

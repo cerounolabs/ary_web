@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg830"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="facebook.svg">
+  <defs
+     id="defs824" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.245"
+     inkscape:cx="-306.12245"
+     inkscape:cy="500"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1918"
+     inkscape:window-height="350"
+     inkscape:window-x="0"
+     inkscape:window-y="1472"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata827">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.416658)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:31.50878906;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="M 500 18.367188 A 481.63261 481.63261 0 0 0 18.367188 500 A 481.63261 481.63261 0 0 0 458.04883 979.5332 L 458.04883 608.01953 L 328.73828 608.01953 L 328.73828 458.37695 L 458.04883 458.37695 L 458.04883 347.83008 C 458.04883 219.76149 536.32009 150.08594 650.58594 150.08594 C 705.34241 150.08594 752.41091 154.10026 766.13086 155.91211 L 766.13086 289.80859 L 686.74609 289.80859 C 624.75787 289.80859 612.68945 319.60461 612.68945 362.99805 L 612.68945 458.50195 L 760.80078 458.50195 L 741.58398 608.51367 L 612.68945 608.51367 L 612.68945 967.70508 A 481.63261 481.63261 0 0 0 981.63281 500 A 481.63261 481.63261 0 0 0 500 18.367188 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,32.416658)"
+       id="path1559" />
+  </g>
+</svg>
